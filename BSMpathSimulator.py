@@ -393,3 +393,4 @@ if __name__ == "__main__":
                                                             l=1.1,
                                                             greek=greek, method="LR")
         print(mean, std)
+# test
